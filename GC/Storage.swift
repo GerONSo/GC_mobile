@@ -6,8 +6,3 @@
 //
 
 import Foundation
-import SwiftUI
-
-class Storage {
-    @AppStorage("userToken") static var userToken: String = ""
-}
